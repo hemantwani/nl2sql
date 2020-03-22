@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\PycharmProjects\\NLU_NL2SQL\\./Rasa_train/default\\model_20191228-235627\\intent_classifier_tensorflow_embedding.ckpt"
+all_model_checkpoint_paths: "D:\\PycharmProjects\\NLU_NL2SQL\\./Rasa_train/default\\model_20191228-235627\\intent_classifier_tensorflow_embedding.ckpt"

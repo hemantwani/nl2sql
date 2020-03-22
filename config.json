@@ -1,0 +1,4 @@
+{
+  "pipeline" : "tensorflow_embedding",
+  "language" : "en"
+}
